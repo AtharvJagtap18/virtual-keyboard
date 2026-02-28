@@ -1,4 +1,4 @@
-import cv2
+port cv2
 import mediapipe as mp
 import pygame
 from time import sleep
